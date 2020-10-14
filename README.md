@@ -1,10 +1,7 @@
-# Serenity JUnit Starter project
+# DuckDuckGo Search Page Testing
 
 
-This is the simplest possible build script setup for Serenity BDD using Java. 
-
-This is a very minimal sample project using JUnit and Serenity BDD in Java. 
-You can use this project as a quick starting point for your own projects.
+This is the is to test the search engine using Serenity BDD (Java). 
 
 ## Get the code
 
